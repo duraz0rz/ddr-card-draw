@@ -1,0 +1,250 @@
+!,Expert,12
+Agent Blatant,Expert,10
+Amore,Expert,9
+Anubis,Expert,10
+Baby Don't You Want Me,Expert,9
+Bend Your Mind,Expert,10
+Birdie,Expert,9
+Bloodrush,Expert,12
+Boogie Down,Expert,9
+Bouff,Expert,10
+Bumble Bee,Expert,9
+Charlene,Expert,11
+Clockwork Genesis,Expert,11
+Cryosleep,Expert,10
+Da Roots (Folk Mix),Expert,9
+Dawn,Expert,9
+D-Code,Expert,10
+Delirium,Expert,12
+Destiny,Expert,11
+Determinator,Expert,12
+Disconnected,Expert,9
+Disconnected Disco,Expert,9
+Disconnected -Hyper-,Expert,10
+Disconnected -Mobius-,Expert,9
+Do U Love Me,Expert,10
+Drifting Away,Expert,9
+Driving Force Classical,Expert,9
+Energizer,Expert,12
+Euphoria,Expert,12
+Fleadh Uncut,Expert,10
+Fly Away,Expert,9
+Fly With Me,Expert,9
+Flying High,Expert,9
+Funk Factory,Expert,9
+Get Happy,Expert,9
+Go 60 Go,Expert,12
+Hand of Time,Expert,10
+Hardcore of the North,Expert,12
+Hardcore Symphony,Expert,11
+High,Expert,9
+Hillbilly Hardcore,Expert,10
+Hip Hop Jam,Expert,9
+Hispanic Panic,Expert,10
+Holy Guacamole,Expert,10
+Hybrid,Expert,10
+I Think I Like That Sound,Expert,9
+Incognito,Expert,9
+Infection,Expert,11
+Ize Pie,Expert,9
+July,Expert,11
+July -Euromix-,Expert,9
+Kagami,Expert,10
+Kiss Me Red,Expert,9
+Know Your Enemy,Expert,10
+Lemmings on the Run,Expert,9
+Let My Love Go Blind,Expert,9
+Lipstick Kiss,Expert,9
+Liquid Moon,Expert,9
+Little Kitty Mine,Expert,9
+Monolith,Expert,11
+Music Pleeze,Expert,9
+My Favourite Game,Expert,10
+My Life Is So Crazy,Expert,9
+Mythology,Expert,11
+No 1 Nation,Expert,9
+No Princess,Expert,9
+Oasis,Expert,10
+On a Day Like Today,Expert,9
+One False Move,Expert,10
+Out of the Dark,Expert,10
+Pandemonium,Expert,13
+Psalm Pilot,Expert,9
+Queen of Light,Expert,10
+Remember December,Expert,10
+Renaissance,Expert,9
+Ride the Bass,Expert,9
+Robotix,Expert,11
+ROM-eo & Juli8,Expert,9
+Soapy Bubble,Expert,10
+Solina,Expert,9
+Spaceman,Expert,9
+Spacy Crazy Girl,Expert,9
+Spin Chicken,Expert,10
+Summer ~Speedy Mix~,Expert,13
+Summer in Belize,Expert,10
+Sunshine,Expert,10
+Sweet World,Expert,10
+Tell,Expert,12
+Temple of Boom,Expert,10
+Tension,Expert,10
+The Beginning,Expert,11
+The Game,Expert,9
+The Message,Expert,9
+This is Rock & Roll,Expert,9
+Touch Me,Expert,9
+Tough Enough,Expert,9
+Tribal Style,Expert,10
+Turn It On,Expert,9
+Twilight,Expert,10
+Typical Tropical,Expert,9
+Utopia,Expert,11
+VerTex,Expert,12
+Vertex^2,Expert,13
+Visible Noise,Expert,10
+Vorsprung Durch -Techno-,Expert,10
+Wake Up,Expert,9
+Walking on Fire,Expert,10
+Wanna Do,Expert,10
+We Know What To Do,Expert,9
+While Tha Rekkid Spinz,Expert,9
+Why Me,Expert,9
+Xuxa,Expert,11
+Zodiac,Expert,9
+Anubis,Hard,8
+Bend Your Mind,Hard,9
+Boogie Down,Hard,8
+Bouff,Hard,9
+Bubble Dancer,Hard,7
+Changes,Hard,7
+Charlene,Hard,8
+Crazy,Hard,7
+Da Roots (Folk Mix),Hard,7
+Dawn,Hard,8
+Delirium,Hard,8
+Disconnected,Hard,8
+Disconnected -Hyper-,Hard,9
+Disconnected -Mobius-,Hard,8
+DJ Party,Hard,8
+Do U Love Me,Hard,6
+Don't Promise Me,Hard,6
+Don't Promise Me ~Happiness~,Hard,8
+Dreams of Passion,Hard,5
+Drifting Away,Hard,8
+Driving Force Classical,Hard,8
+Euphoria,Hard,9
+Fly Away,Hard,7
+Fly With Me,Hard,7
+Flying High,Hard,8
+Hand of Time,Hard,8
+Hardcore of the North,Hard,9
+Hip Hop Jam,Hard,6
+Hybrid,Hard,9
+I Think I Like That Sound,Hard,8
+I'll Get There Anyway,Hard,7
+Infection,Hard,8
+July,Hard,9
+Kagami,Hard,8
+Kiss Me Red,Hard,7
+Land of the Rising Sun,Hard,7
+Lemmings on the Run,Hard,7
+Let Me Be The One,Hard,6
+Let My Love Go Blind,Hard,7
+Mellow,Hard,8
+Mouth,Hard,8
+My Favourite Game,Hard,6
+Mythology,Hard,9
+No 1 Nation,Hard,8
+Normal,Hard,7
+Not Worth The Paper,Hard,6
+Oasis,Hard,9
+On a Day Like Today,Hard,7
+PA Theme,Hard,6
+Pandemonium,Hard,11
+Perfect,Hard,8
+Queen of Light,Hard,7
+Remember December,Hard,9
+ROM-eo &amp; Juli8,Hard,7
+Solina,Hard,7
+Tell,Hard,9
+Tension,Hard,9
+The Beginning,Hard,8
+The Game,Hard,8
+Torn,Hard,7
+Touch Me,Hard,8
+Tough Enough,Hard,7
+Turn It On,Hard,7
+Utopia,Hard,8
+VerTex,Hard,10
+Walking on Fire,Hard,8
+Which MC Was That,Hard,7
+While Tha Rekkid Spinz,Hard,7
+Why Me,Hard,6
+Xuxa,Hard,9
+Zodiac,Hard,7
+!,Hard,9
+Agent Blatant,Hard,7
+Amore,Hard,8
+Baby Baby,Hard,8
+Baby Don't You Want Me,Hard,7
+Birdie,Hard,7
+Bloodrush,Hard,9
+Bumble Bee,Hard,7
+Clockwork Genesis,Hard,9
+Cryosleep,Hard,8
+D-Code,Hard,8
+Destiny,Hard,8
+Determinator,Hard,8
+Disconnected Disco,Hard,8
+Energizer,Hard,10
+Fleadh Uncut,Hard,8
+Funk Factory,Hard,8
+Get Happy,Hard,7
+Go 60 Go,Hard,9
+Habanera 1,Hard,7
+Hardcore Symphony,Hard,9
+High,Hard,7
+Hillbilly Hardcore,Hard,8
+Hispanic Panic,Hard,8
+Holy Guacamole,Hard,7
+Hustle Beach,Hard,7
+Incognito,Hard,8
+Ize Pie,Hard,7
+July -Euromix-,Hard,8
+Know Your Enemy,Hard,9
+Life of a Butterfly,Hard,7
+Lipstick Kiss,Hard,7
+Liquid Moon,Hard,8
+Little Kitty Mine,Hard,7
+Monolith,Hard,9
+Music Pleeze,Hard,7
+My Life Is So Crazy,Hard,8
+No Princess,Hard,7
+One False Move,Hard,9
+Out of the Dark,Hard,9
+Pick Me Up &amp; Tango,Hard,8
+Psalm Pilot,Hard,8
+Reactor,Hard,7
+Renaissance,Hard,8
+Ride the Bass,Hard,7
+Robotix,Hard,8
+Soapy Bubble,Hard,8
+Spaceman,Hard,7
+Spacy Crazy Girl,Hard,7
+Spin Chicken,Hard,7
+Summer in Belize,Hard,8
+Summer ~Speedy Mix~,Hard,9
+Sunshine,Hard,7
+Sweet World,Hard,8
+Temple of Boom,Hard,9
+The Message,Hard,7
+This is Rock & Roll,Hard,7
+Tribal Style,Hard,9
+Twilight,Hard,8
+Typical Tropical,Hard,7
+Vertex^2,Hard,11
+Visible Noise,Hard,9
+Vorsprung Durch -Techno-,Hard,8
+Wake Up,Hard,8
+Wanna Do,Hard,8
+We Know What To Do,Hard,7

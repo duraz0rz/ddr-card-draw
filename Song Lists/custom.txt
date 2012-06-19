@@ -1,0 +1,5 @@
+DDR,Heavy,9
+DDR,Oni,9
+Celebrate Night,Heavy,7
+Maxx Unlimited,Heavy,10
+Maxx Unlimited,Standard,8
