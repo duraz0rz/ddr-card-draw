@@ -28,6 +28,7 @@ namespace CardGUI
         public void LoadDeck(Difficulty diff)
         {
             List<String> songList = new List<string>();
+            String[] splitLine;
 
             switch (diff)
             {
@@ -55,55 +56,14 @@ namespace CardGUI
 
             foreach (String song in songList)
             {
-
+                splitLine = song.Split(',');
+                songsInDeck.Add(new Card(splitLine[0], Convert.ToInt32(splitLine[2]), (Difficulty)Enum.Parse(typeof(Difficulty), splitLine[1])));
             }
         }
 
-        public static ArrayList LoadSongs(string fileName)
+        public Card DrawCard()
         {
-            string line;
-            string name, difficulty;
-            int footRating;
-            Card temp;
-            string[] rawr;
 
-            ArrayList songs = new ArrayList();
-
-            // Load DDR Heavy by Default
-            StreamReader sr = new StreamReader(fileName);
-            line = sr.ReadLine();
-
-            try
-            {
-                do
-                {
-                    rawr = line.Split(',');
-                    name = rawr[0];
-                    difficulty = rawr[1];
-                    footRating = int.Parse(rawr[2]);
-
-                    // Create new Card instance
-                    temp = new Card(name, footRating, difficulty);
-
-                    System.Diagnostics.Debug.WriteLine(temp.ToString());
-
-                    // Add it to songs ArrayList
-                    songs.Add(temp);
-
-                    // Get the next line
-                    line = sr.ReadLine();
-                } while (line != null);
-            }
-            catch (Exception e)
-            {
-                System.Diagnostics.Debug.WriteLine(e.Message);
-            }
-            finally
-            {
-                sr.Close();
-            }
-
-            return songs;
         }
     }
 }
