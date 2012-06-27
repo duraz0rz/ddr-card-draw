@@ -63,7 +63,29 @@ namespace CardGUI
 
         public Card DrawCard()
         {
+            Random randNum = new Random();
+            Card drawnCard = songsInDeck[randNum.Next(0, songsInDeck.Count - 1])];
+            songsInDeck.Remove(drawnCard);
+            return drawnCard;
+        }
 
+        public List<Card> DrawCards(int numToDraw)
+        {
+            List<Card> drawnCards = new List<Card>(numToDraw);
+
+            for (int i = 1; i <= numToDraw; i++)
+                drawnCards.Add(DrawCard());
+
+            return drawnCards;
+        }
+
+        /// <summary>
+        /// Put back one or more cards that were drawn into the deck
+        /// </summary>
+        /// <param name="cardsToPutBack"></param>
+        public void ReplaceCards(Card[] cardsToPutBack)
+        {
+            songsInDeck.AddRange(cardsToPutBack);
         }
     }
 }

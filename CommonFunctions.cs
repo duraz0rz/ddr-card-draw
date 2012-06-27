@@ -20,7 +20,12 @@ namespace CardGUI
         Standard
     }
 
-    class CommonFunctions
+    public class CommonFunctions
     {
+    }
+
+    public class ExtensionFunctions
+    {
+
     }
 }
